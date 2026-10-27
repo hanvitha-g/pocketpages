@@ -1,0 +1,17 @@
+{
+  "name": "PocketPages - Moments, Memories & Birthdays",
+  "short_name": "PocketPages",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#D96B43",
+  "description": "Your cozy pocket sanctuary for daily moments, memories, and birthdays.",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
